@@ -39,7 +39,7 @@ extraItem = `<p class="card-text">officeNumber${element.getOfficeNumber()}</p>`
   <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="#">Team Profile Generator</a>
   </div>
 </nav>
 <div class="container">
